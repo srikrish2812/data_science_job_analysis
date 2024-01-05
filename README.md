@@ -5,3 +5,6 @@
 3. Insights are drawn using exploratory data analysis(EDA) with the help of pandas framework.
 
 **Tech Stack**: Python, BeautifulSoup, Pandas, NumPy, Cloudscraper, Zenrows
+
+**Note: To use [Zenrows](https://www.zenrows.com/) you have to log in and create an API key. Zenrows is a paid framework but can be used freely up to a certain limit. It automatically scrapes data from the website and returns a clean, processed JSON object for direct analysis.
+**
