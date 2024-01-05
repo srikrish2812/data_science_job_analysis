@@ -4,4 +4,4 @@
 2. Web scraping technique is used to collect data from the website and this raw data is processed, cleaned, and stored in a structured CSV file for further analysis.
 3. Insights are drawn using exploratory data analysis(EDA) with the help of pandas framework.
 
-**Tech Stack** : Python, BeautifulSoup, Pandas, NumPy, Cloudscraper
+**Tech Stack**: Python, BeautifulSoup, Pandas, NumPy, Cloudscraper, Zenrows
